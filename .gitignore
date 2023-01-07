@@ -264,3 +264,12 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Apps/PcmHammer/AnalysisReport.sarif
+/Apps/PcmHammer/upgrade-assistant.clef
+/Apps/PcmLogger/AnalysisReport.sarif
+/Apps/VpwExplorer/UpgradeReport.sarif
+/Apps/VpwExplorer/upgrade-assistant.clef
+/Apps/Tests/UpgradeReport.sarif
+/Apps/Tests/upgrade-assistant.clef
+/Apps/PcmLogger/UpgradeReport.sarif
+/Apps/PcmLogger/upgrade-assistant.clef
